@@ -80,11 +80,11 @@ Input:
 Output:
 🚨 Critical Risk of Readmission — Confidence: 0.79
 
-⚠️ Disclaimer
+### ⚠️ Disclaimer
 This is a demo project trained on synthetic or publicly available healthcare data.
 It is not intended for clinical use without further validation.
 
-👨‍💻 Author
+### 👨‍💻 Author
 Luke Mbogo
 🎓 ALX AI Engineering Track | 💻 Cybersecurity Enthusiast
 🌍 Nairobi, Kenya | 💡 Founder @ Lumarah Tech

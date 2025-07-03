@@ -63,11 +63,11 @@ streamlit run app.py
 
 ### 🗂 Project Structure
 📁 Hospital/
-├── app.py                  # Streamlit app
-├── readmission_model.pkl   # Trained model with pipeline
-├── train_df.csv            # Training dataset
-├── test_df.csv             # Test dataset
-├── README.md               # You're here
+- ├── app.py                  # Streamlit app
+- ├── readmission_model.pkl   # Trained model with pipeline
+- ├── train_df.csv            # Training dataset
+- ├── test_df.csv             # Test dataset
+- ├── README.md               # You're here
 
 ### Example Output
 Input:

@@ -38,10 +38,15 @@ cd hospital-readmission-ai
 ```
 
 ### 2. 📦 Install Dependencies
-Install required Python packages: pip install streamlit pandas scikit-learn joblib
+Install required Python packages: 
+```bash 
+pip install streamlit pandas scikit-learn joblib
+```
 
-### 3. ▶️ Run the App
+### 3. ▶️ Run the App 
+```bash 
 streamlit run app.py
+```
 
 ### How It Works
 - A pre-trained machine learning model (readmission_model.pkl) is loaded at runtime.
